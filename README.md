@@ -1,3 +1,4 @@
+
 # developer-relations-talk
 Sharing material and researchers presented on my talk about Developer Relations
 
@@ -11,12 +12,12 @@ Sharing material and researchers presented on my talk about Developer Relations
 
 ### Who are you?
 
-** I am Pachi! **
+**I am Pachi!** 
 I am a Brazilian immigrant, self-learner front-end  developer, who used to be a nanny.
 Streaming is my passion, reading is my addiction, I think I am funny and I LOVE my community <3
 
 Also, I am a Developer Relicans Engineer at New Relic!
-@therelicans
+[@therelicans](https://developer.newrelic.com/relicans/)
 
 ### 1. So... What is this DevRel thing?
 Developer Relations?
@@ -24,12 +25,11 @@ Community Manager?
 Developer Evangelist?
 Developer Avocado🥑?
 
--> To the community, I represent the company. 
-  To the company, I represent the community. 
-  I must have both of their interests in mind at all times.  
-  
-* Mantra mentioned by 
-Mary Thengvall (but I am not sure who is the actual author, if you do let me know) *
+> To the community, I represent the company.  To the company, I
+> represent the community.  I must have both of their interests in mind
+> at all times.
+
+*Mantra mentioned by [Mary Thengvall](https://www.marythengvall.com/) (but I am not sure who is the actual author, if you do let me know)* 
 
 
 ### 2. How did you get into this?
