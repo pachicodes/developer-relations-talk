@@ -77,7 +77,7 @@ A DevRel wears MANY hats, and it varies from company to company.
 
 ### 5. Resources
 There is a lot out there, but here are my favs:
-First, [DevRel: The Bacis, by me](https://pachicodes.com/blog/devrel-basics)!
+First, [DevRel: The Basics, by me](https://pachicodes.com/blog/devrel-basics)!
 
 **Books**
 - [The Business Value of Developer Relations by Mary Thengvall](https://www.persea-consulting.com/book),
